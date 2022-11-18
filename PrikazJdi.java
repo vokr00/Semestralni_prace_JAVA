@@ -1,5 +1,10 @@
 package logika;
 
+/**
+ * @author Roman Vokál
+ *@version školní rok 2019/2020
+ */    
+
 class PrikazJdi implements IPrikaz {
     private static final String NAZEV = "jdi";
     private HerniPlan plan;
