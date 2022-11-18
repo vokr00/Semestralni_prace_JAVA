@@ -1,5 +1,10 @@
 package logika;
 
+/**
+ * @author Roman Vokál
+ *@version školní rok 2019/2020
+ */    
+
 import java.util.ArrayList;
 import java.util.List;
 
