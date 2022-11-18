@@ -1,5 +1,10 @@
 package logika;
 
+/**
+ * @author Roman Vokál
+ *@version školní rok 2019/2020
+ */    
+
 public class PrikazOtevri implements IPrikaz {
 
     private static final String NAZEV = "otevři";
