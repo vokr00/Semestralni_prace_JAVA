@@ -23,12 +23,14 @@ public class Prostor {
     private List<Truhla> obsahMistnosti;
 
     /**
-     * Vytvoření prostoru se zadaným popisem, např. "kuchyň", "hala", "trávník
-     * před domem"
+     * Vytvoření prostoru se zadaným popisem
      *
      * @param nazev nazev prostoru, jednoznačný identifikátor, jedno slovo nebo
      * víceslovný název bez mezer.
      * @param popis Popis prostoru.
+     *
+     *@author Roman Vokál
+     *version pro školní rok 2019/2020
      */
     public Prostor(String nazev, String popis, Truhla truhla) {
         this.nazev = nazev;
