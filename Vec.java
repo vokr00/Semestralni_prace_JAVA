@@ -11,6 +11,10 @@ package logika;
  * @created duben 2020
  */
 public class Vec
+/**
+ * @author Roman Vokál
+ *@version školní rok 2019/2020
+ */    
 {
     private String nazev;
     private boolean prenositelna;
